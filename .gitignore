@@ -1,0 +1,12 @@
+CImg-4.0.8_pre11122613/
+.vscode/
+
+# misc
+
+jpeg_loader/papa.jpg
+jpeg_loader/CImg.h
+jpeg_loader/out.txt
+jpeg_loader/p2ascii
+jpeg_loader/loader
+jpeg_loader/plugins/
+jpeg_loader/resources/
